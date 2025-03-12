@@ -7,15 +7,18 @@
 
 ## Dosyalar
 Assets:
-  Misyon dosyası
-  fotolar
+  - Misyon dosyası
+  - fotolar
+
 Question-1
-  veri seti
-  cloud flare
-  aws
-  ngnix
+  - Alpardayalman.com
+  - veri seti
+  - cloud flare
+  - aws
+  - ngnix
+  - 
 Question-2
-  Secilen Kaggle'dan ilgimi çeken Transformer tabanlı bir jupyter notebook'u pytorch kütüphanesini kullanarak çalıştırıp bize gönderin.
+  - Secilen Kaggle'dan ilgimi çeken Transformer tabanlı bir jupyter notebook'u pytorch kütüphanesini kullanarak çalıştırıp bize gönderin.
 
 
 
