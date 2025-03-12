@@ -4,7 +4,9 @@ WORKDIR /
 
 COPY . /Question-1/
 
-RUN pip install --no-cache-dir -r /Question-1/requirements.txt
+RUN pip install uv
+
+RUN uv pip install --system --no-cache-dir -r /Question-1/requirements.txt
 
 RUN cd ..
 

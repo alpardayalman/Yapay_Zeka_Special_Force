@@ -60,7 +60,7 @@ def load_model():
         vectorizer = joblib.load(vectorizer_path)
         return nb_classifier, vectorizer
     else:
-        st.warning("Model dosyaları bulunamadı. Modeli eğitmek ve kaydetmek için aşağıdaki düğmeye tıklayın.")
+        st.warning("Model dosyaları bulunamadı. Modeli eğitmek ve kaydetmek için yukarıdaki düğmeye tıklayın.")
         return None, None
 
 def predict_sentiment(text, model, vectorizer):
