@@ -6,3 +6,15 @@
   -  Kaggle ya da farklı blog'lar üzerinde ilginizi çeken Transformer tabanlı bir jupyter notebook'u pytorch kütüphanesini kullanarak çalıştırıp bize gönderin.
 
 ## Dosyalar
+Assets:
+  Misyon dosyası
+  fotolar
+Question-1
+
+Question-2
+  Secilen Kaggle'dan ilgimi çeken Transformer tabanlı bir jupyter notebook'u pytorch kütüphanesini kullanarak çalıştırıp bize gönderin.
+
+
+
+![ScreenShot](/Assets/ko.png)
+![ScreenShot](/Assets/ok.png)
