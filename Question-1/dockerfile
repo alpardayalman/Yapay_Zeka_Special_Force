@@ -1,0 +1,13 @@
+FROM python:3.9
+
+WORKDIR /
+
+COPY . /Question-1/
+
+RUN pip install --no-cache-dir -r /Question-1/requirements.txt
+
+RUN cd ..
+
+EXPOSE 8501
+
+CMD ["streamlit", "run", "/Question-1/main.py", "--server.port=8501", "--server.address=0.0.0.0"]
