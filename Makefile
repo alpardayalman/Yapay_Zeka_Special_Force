@@ -10,7 +10,7 @@ cleanlocal:
 
 rundocker:
 	sudo docker build -t $(IMAGE_NAME1) $(APP_PATH1)
-	sudo docker run -p 8501:8501 $(IMAGE_NAME1)
+	sudo docker run -d -p 8501:8501 $(IMAGE_NAME1)
 
 
 cleandocker:
