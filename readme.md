@@ -18,9 +18,9 @@ Question-1
   - ngnix
   - ssh -i "XXX.pem" admin@ec2-XX-XX-XXX-127.eu-north-1.compute.amazonaws.com
 Question-2
-  - Secilen Kaggle'dan ilgimi çeken Transformer tabanlı bir jupyter notebook'u pytorch kütüphanesini kullanarak çalıştırıp bize gönderin.
+  - Secilen Kaggle'dan ilgimi çeken Transformer tabanlı bir jupyter notebook'u pytorch kütüphanesini kullanarak çalıştırdım.
 
 
+![ScreenShot](/Assets/ok.png)
 
 ![ScreenShot](/Assets/ko.png)
-![ScreenShot](/Assets/ok.png)
