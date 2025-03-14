@@ -5,27 +5,11 @@
   -  Dilediğiniz bir ML modelini, streamlit ile canlıya alıp container içine koyun ve AWS üzerinden servis edin
   -  Kaggle ya da farklı blog'lar üzerinde ilginizi çeken Transformer tabanlı bir jupyter notebook'u pytorch kütüphanesini kullanarak çalıştırıp bize gönderin.
 
-
-## Anex
-
-## Dosyalar
-Assets:
-  - Misyon dosyası
-  - fotolar
-
-Question-1
-  - Alpardayalman.com
-  - veri seti
-  - cloud flare
-  - aws
-  - ngnix
+[Question-1](Question-1/readme.md)
+  - https://alpardayalman.com
   - ssh -i "XXX.pem" admin@ec2-XX-XX-XXX-127.eu-north-1.compute.amazonaws.com
 
 
-Question-2
+[Question-2](Question-2/readme.md)
   - Secilen Kaggle'dan ilgimi çeken Transformer tabanlı bir jupyter notebook'u pytorch kütüphanesini kullanarak çalıştırdım.
 
-
-![ScreenShot](/Assets/ok.png)
-
-![ScreenShot](/Assets/ko.png)
